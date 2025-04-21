@@ -28,9 +28,9 @@ cd Marina
 python3 marina.py
 ```
 
-![modern-anonymous-concept-with-flat-design_23-2147876484](https://user-images.githubusercontent.com/81558270/128670328-3cc0b237-51c5-47c9-9f5d-3697aea3fb8d.jpg)
+![modern-anonymous-concept-with-flat-design_23-2147876484](https://user-images.githubusercontent.com/8155880/128670328-3cc0b237-51c5-47c9-9f5d-36578aea3fb8d.jpg)
 
-[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/Mrchandu7) 
-[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+923269286818)
+[![](https://img.shields.io/badge/Github-wight?logo=Github&logoColor=white&labelColor=white)](https://github.com/Ms.marinakhan956) 
+[![](https://img.shields.io/badge/Whatsapp-CHAT-brow?logo=Whatsapp&logoColor=dark&labelColor=white)](https://wa.me/+923269286818)
 
 #### Thanks For Using My Script
